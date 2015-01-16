@@ -3,9 +3,9 @@
 
 function maxOfTwoNumbers (a,b) {
     if (a > b){
-        return true;
+        return "A is greater than B";
     } else {
-        return false;
+        return "B is greater than A";
     }
 }
 
